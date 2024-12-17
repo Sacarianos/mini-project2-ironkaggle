@@ -1,0 +1,2 @@
+Training set (R2) score: 0.9928677879284725
+Testing set (R2) score: 0.9486985226255809
